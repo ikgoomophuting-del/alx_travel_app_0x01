@@ -30,6 +30,18 @@ http://127.0.0.1:8000/swagger/
 ## ReDoc: 
 http://127.0.0.1:8000/redoc/
 
+## Test Endpoints in Postman
+
+Test each CRUD operation:
+
+Endpoint	Method	Description
+/api/listings/	GET	Retrieve all listings
+/api/listings/	POST	Add new listing
+/api/listings/{id}/	GET	Retrieve listing by ID
+/api/listings/{id}/	PUT	Update listing
+/api/listings/{id}/	DELETE	Delete listing
+/api/bookings/	Same pattern	CRUD for bookings
+
 Author
 
 Developed by Ikgopoleng Mophuting for ALX Backend Development 
