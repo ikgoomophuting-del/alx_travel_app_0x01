@@ -1,7 +1,3 @@
-
-
-###  Create `listings/views.py`
-
 ```python
 from rest_framework import viewsets
 from .models import Listing, Booking
