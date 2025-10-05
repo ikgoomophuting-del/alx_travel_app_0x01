@@ -23,3 +23,15 @@ Use Postman or the Swagger UI to perform:
 
 ## Expected Output
 A working CRUD API with documented endpoints and verified responses.
+
+## Swagger docs: 
+http://127.0.0.1:8000/swagger/
+
+## ReDoc: 
+http://127.0.0.1:8000/redoc/
+
+Author
+
+Developed by Ikgopoleng Mophuting for ALX Backend Development 
+
+Django REST API module.
